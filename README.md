@@ -1,2 +1,3 @@
-# CS2316
-This is a repository for Python Data Manipulation
+# Data Manipulation
+CS 2316
+Data Manipulation for Science & Industry
